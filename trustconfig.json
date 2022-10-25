@@ -1,0 +1,72 @@
+{
+    "bsc_pubkey_addr_maps": [
+        {
+            "bsc_node_pubkey_addr": "0x38580eFe497b22ACc29783273e725a2a4F2AEEA4",
+            "tm_node_pubkey_addr": "9889f13e2a9ba08140f17b42ef5ed6c568b04f5d"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x3b6E67C4c837db054AC719892f871264E1456cDf",
+            "tm_node_pubkey_addr": "821a12d263c93ee624e7bb8fd35800599df4be6a"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x0AF48384F2A5E6Af457FaEc584Dc5593d0Ad370e",
+            "tm_node_pubkey_addr": "a5c008c03fe2fec81d9c365baac914cdaf26c7aa"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x947DD1558257a631049Fad9D686f427F86033c16",
+            "tm_node_pubkey_addr": "144d8d5cc7d523f1e3119dc5afdeb047d8363b2f"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x29dA95fa6ed88b431218A54bd8dFEAD68918A3B5",
+            "tm_node_pubkey_addr": "4145b7dbcb8637848604ad3b36b3885a1400249f"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x38580eFe497b22ACc29783273e725a2a4F2AEEA4",
+            "tm_node_pubkey_addr": "9889f13e2a9ba08140f17b42ef5ed6c5TMPubkey11"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x29dA95fa6ed88b431218A54bd8dFEAD68918A3B5",
+            "tm_node_pubkey_addr": "821a12d263c93ee624e7bb8fd35800Pubkey222"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x947DD1558257a631049Fad9D686f427F86033c16",
+            "tm_node_pubkey_addr": "4145b7dbcb8637848604ad3Pubkey333KKK0712"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x38580eFe497b22ACc29783273e725a2a4F2AEEA4",
+            "tm_node_pubkey_addr": "9889f13e2a9ba08140f17b42ef5ed6c5TMPubkey11"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x29dA95fa6ed88b431218A54bd8dFEAD68918A3B5",
+            "tm_node_pubkey_addr": "821a12d263c93ee624e7bb8fd35800Pubkey222"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x947DD1558257a631049Fad9D686f427F86033c16",
+            "tm_node_pubkey_addr": "4145b7dbcb8637848604ad3Pubkey333KKK0712"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x38580eFe497b22ACc29783273e725a2a4F2AEEA4",
+            "tm_node_pubkey_addr": "9889f13e2a9ba08140f17b42ef5ed6c5TMPubkey11"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x29dA95fa6ed88b431218A54bd8dFEAD68918A3B5",
+            "tm_node_pubkey_addr": "821a12d263c93ee624e7bb8fd35800Pubkey222"
+        },
+        {
+            "bsc_node_pubkey_addr": "0x947DD1558257a631049Fad9D686f427F86033c16",
+            "tm_node_pubkey_addr": "4145b7dbcb8637848604ad3Pubkey333KKK0712"
+        }
+    ],
+    "request_trust_interval": 15,
+    "request_trust_node_num": 5,
+    "trust_running": 0,
+    "access_privkey": "",
+    "access_keyaddr": "",
+    "request_https_flag": 0,
+    "validator_upgrade_handle_port": 6666,
+    "request_tm_grpc_port": 46658,
+    "bsc_node_commkey_path": "/data/node/conf/",
+    "tm_seed_node_first": "106.3.133.179:46657",
+    "tm_seed_node_second": "106.3.133.180:46657",
+    "trust_validator_contract": "0xe4B1D41C86149CcCD877Ce45c0d4EB9Eac53EF0B"
+}
